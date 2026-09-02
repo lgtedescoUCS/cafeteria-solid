@@ -1,0 +1,4 @@
+Pedido: Capuccino | Qtd: 2 | Cliente: Professor | Total: 24.8
+Pedido: Frappuccino | Qtd: 1 | Cliente: Comum | Total: 18.0
+Pedido: Capuccino | Qtd: 2 | Cliente: Professor | Total: 24.8
+Pedido: Frappuccino | Qtd: 1 | Cliente: Comum | Total: 18.0
