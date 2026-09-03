@@ -1,0 +1,22 @@
+Considere o contexto de um sistema para uma Cafeteria com uma classe que inclui um método para calcular o valor de um pedido e armazenar a informação em um arquivo de log
+
+
+
+
+
+Identifique e mostre, na classe (incluindo comentários), pontos no código que violam princípios S.O.L.I.D.
+Refatore o código para lidar com os problemas encontrados
+Pensem sobre os seguintes cenários de mudança:
+
+Cenário de Mudança 1:
+
+O dono da cafeteria agora quer salvar os pedidos em um Banco de Dados SQL e não mais em TXT
+Quantas linhas de código "da classe de negócio" teremos que alterar para testar novamente?
+Cenário de Mudança 2:
+
+A cafeteria começou a vender "Frappuccino".
+Onde precisamos fazer alterações?
+Uma sequência de condicionais é realmente a melhor maneira de acomodar a mudança?
+Cenário de Mudança 3:
+
+Se quisermos criar uma versão "Totem de Autoatendimento" que não imprime log em arquivo, será possível reaproveitar a classe "Cafeteria"? Como ficaria o código que salva o arquivo de log?
